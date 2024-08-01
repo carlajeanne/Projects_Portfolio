@@ -6,6 +6,7 @@ To demonstrate what I have learned and how I have applied the skills I acquired 
 - [SQL](#sql)
 - [Python](#python)
 - [Web Development](#Web_Development)
+- [Data Visualization](#Data_Viz)
 
 
 <a id='sql'></a>
@@ -35,3 +36,10 @@ To demonstrate what I have learned and how I have applied the skills I acquired 
 | [Supervisor Shift Generator](https://github.com/carlajeanne/Supervisor-Shift)                                             | Create an automatic salary generator by supervisor                                                                                            |                                                                                                      |  Python                                 |                                                                            | 
 | [Restaurant Bill Generator](https://github.com/carlajeanne/Restaurant_Bill)                                               | Create a restuarant bill generator using Tkinter                                                                                              |                                                                                                      |  Python                                 |                                 Tkinter                                    |  
 | [TV Discount Generator](https://github.com/carlajeanne/TV-Discount-Tkinter)                                               | Create a TV discount generator using Tkinter                                                                                                  |                                                                                                      |  Python                                 |                                 Tkinter                                    | 
+
+<a id='Data_Viz'></a>
+## Data Visualization
+| Project                                                                 | Description                                                                                                                              | Requirements          | 
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------
+| [Adventure Work Dashboard](https://github.com/carlajeanne/Adventure_Work_Dashboard)                     | Create a dashboard for the Adventure Work Company Sales                                                  | Power BI              | 
+
